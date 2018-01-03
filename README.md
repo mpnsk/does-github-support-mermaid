@@ -19,3 +19,5 @@ choice--Yes-->does
 choice--No-->doesnt
 
 ```
+
+This should look like [this](https://gitlab.com/mpnsk/does-gitlab-support-mermaid/blob/master/README.md)
