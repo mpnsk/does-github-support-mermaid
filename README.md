@@ -2,6 +2,8 @@
 
 ```mermaid
 
+graph TD
+
 start(Does Github support mermaid flowcharts?)
 
 choice{Is this displayed as a flowchart?}
